@@ -75,25 +75,6 @@ const rammach = {
 <img src="https://github-profile-trophy.vercel.app/?username=RAMMACHyc&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="trophies" />
 
 </div>
-
-<br/>
-
-<!-- ============ PROJECTS ============ -->
-## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/RAMMACHyc/REPO-1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RAMMACHyc&repo=REPO-1&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="project 1" />
-</a>
-<a href="https://github.com/RAMMACHyc/REPO-2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RAMMACHyc&repo=REPO-2&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="project 2" />
-</a>
-
-<sub>👆 Replace <code>REPO-1</code> and <code>REPO-2</code> with your best repository names.</sub>
-
-</div>
-
 <br/>
 
 <!-- ============ CONNECT ============ -->
