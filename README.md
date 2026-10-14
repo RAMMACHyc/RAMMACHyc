@@ -34,7 +34,7 @@
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;About Me
 </h2>
 
-<img align="right" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="280" alt="developer gif"/>
+<img align="right" src="https://d3rshtj5w2m4qx.cloudfront.net/7eqvg%2Fpreview%2F81409190%2Fmain_large.gif?response-content-disposition=inline%3Bfilename%3D%22main_large.gif%22%3B&response-content-type=image%2Fgif&Expires=1791994897&Signature=bENOSSTwGVcOhD96knbmIkqQ2BjAv5AP5i87bj2bl4Y19vSX4A1h3rdc8vV01keGMwVS1auM5TQ1061ztsvPr4kuhUX2FLCmO2HvLBCc4yhcLNNTxxNkmNymhHbonth3GHvtA15CR4BMz97ocw0ZeS2ksk~XYbb31RdUCInWZF2w57vrn3RsHlg3LD6DY-RWOfZfUpo4Dea~3dT32hUWe8IEOo4inSaCGs5wlXRX-EgUBJ87V~pxdOKOsgNp4yyaTl7RbhgJnP1VVtp2OA-aoSkH9IiGKlJs~9a9P~6IhK2J0zQQK6-5mESW47OYfxVeJ~mU-Z3ZrojZ2kh1k~QPWw__&Key-Pair-Id=APKAJT5WQLLEOADKLHBQ" width="280" alt="developer gif"/>
 
 ```js
 const rammach = {
